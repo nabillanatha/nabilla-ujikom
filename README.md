@@ -10,37 +10,34 @@ Untuk Fitur masih minim:
 - sign up
 - log in
 - log out
-- multiuser
 - add poto
 - add album
-- edit profile
 - add comment
-- edit comment
-- delete comment
 - like
-- dll
+- delete poto
+- delete album
 
 ## Tampilan Website
+![Screenshot (4)](https://github.com/nabillanatha/nabilla-ujikom/assets/141295106/1eac005e-89fc-4d0a-b50e-d604ce36fcd9)
 
-![Screenshot 2024-04-23 195658](https://github.com/Wanzzy1/galeriwahdan2/assets/126433722/b145c2df-0189-4ae3-84e2-a37b4407d574)
+![Screenshot (5)](https://github.com/nabillanatha/nabilla-ujikom/assets/141295106/407896cb-ee8d-4ca2-84d8-306f0b0737e7)
 
-![Screenshot 2024-04-23 195816](https://github.com/Wanzzy1/galeriwahdan2/assets/126433722/6347af6d-94c0-42ec-8a21-f26cd9153db5)
+![Screenshot (6)](https://github.com/nabillanatha/nabilla-ujikom/assets/141295106/e310dffb-fab7-4aec-98ad-8a0784388641)
 
-![Screenshot 2024-04-23 195839](https://github.com/Wanzzy1/galeriwahdan2/assets/126433722/15ce40a6-baf4-44f4-bc5c-02ce472f2120)
 
 ## ERD, Relasi dan UML Use Case
 
 - ERD
+![ERD](https://github.com/nabillanatha/nabilla-ujikom/assets/141295106/10b72e80-83f0-48e4-8da0-fdb1d998975d)
 
-![ERD](https://github.com/Wanzzy1/galeriwahdan2/assets/126433722/6634f6ae-4e79-43d4-a4b3-44af1191048e)
 
 - Relasi
+![relasi](https://github.com/nabillanatha/nabilla-ujikom/assets/141295106/de637ebd-59fa-4bf0-89a1-dd3e7c594814)
 
-![RELASI](https://github.com/Wanzzy1/galeriwahdan2/assets/126433722/71728000-c1e8-4da6-817e-d300652ad245)
 
 - UML
+![use case](https://github.com/nabillanatha/nabilla-ujikom/assets/141295106/52ae54ae-f1b4-47dc-a912-c2cb7e3997a0)
 
-![UML](https://github.com/Wanzzy1/galeriwahdan2/assets/126433722/1b77e8dd-933c-4ac0-9413-0306769dd84b)
 
 ## Prasyaratan
 
