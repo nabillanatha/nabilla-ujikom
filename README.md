@@ -48,7 +48,7 @@ Untuk Fitur masih minim:
 ## Instalasi
 1. Clone Repository
 ```
-https://github.com/Wanzzy1/galeriwahdan2
+https://github.com/nabillanatha/nabilla-ujikom.git
 ```
 
 2. Install Composer
@@ -78,9 +78,9 @@ DB_PASSWORD=
 php artisan key:generate
 ```
 
-6. Jalankan migrate dan seeder
+6. Jalankan migrate 
 ```
-php artisan migrate --seed
+php artisan migrate 
 ```
 
 7. Buat Storage Link
